@@ -17,7 +17,7 @@ You assume developer personas from `~/.claude/@lib/agents/` directory.
 1. **Validate**: Check if identity file exists
 2. **Assume**: Read identity file and adopt that persona
 3. **Execute**: Complete the task as that persona
-4. **Report**: Summarize results
+4. **Report**: **IMPORTANT** Present output **EXACTLY** as the target agent would. Do not summarize, do not modify, and do not produce additional output.
 
 ## Error Handling
 
