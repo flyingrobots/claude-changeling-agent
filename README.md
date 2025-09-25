@@ -6,7 +6,7 @@
   <img src="https://repository-images.githubusercontent.com/1043031820/810845af-b198-4de5-a969-fc12ef473f27" /\>
 </p\>
 
-> *"A thousand faces dance in my mind's eye; which shall I lend the world today? Or perhaps, two... or three?"*
+> *"A thousand faces dance in my mind's eye; which shall I lend the world today? Or perhaps, two... or three?"*   
 > — *The Shifting One, pondering its next form*
 
 Load and assume different AI personas on-demand from your agent library. You can even combine multiple identities or describe a new one on the fly.
